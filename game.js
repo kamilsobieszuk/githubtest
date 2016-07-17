@@ -7,6 +7,9 @@ BUBBLE.AboveUI = function(goalController,starController) {
   //this.comboText = new BUBBLE.UI_ComboText()
   //added comment git
 
+  //added second commit
+  
+
 	this.goalController = goalController;
   this.starController = starController;
 
